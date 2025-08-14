@@ -11,3 +11,5 @@ My Interests lie in Math, Programming, Table Tennis, Foosball, and mainly Minecr
 ![Minecraft](/assets/img/commons/minecraft.jpg)
 
 I have put forth some of my thoughts in thr form of blogs here, hope that you enjoy reading them!
+
+And also loaf!
