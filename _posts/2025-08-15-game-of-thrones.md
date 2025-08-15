@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Game of Thrones Theories
+description: A page to talk about Game of Thrones Theories
 date: 2025-08-15 00:30:00 +0530
 categories: [Lore, Theories]
 tags: [got, lore, theory] # TAG names should always be lowercase
 author: PixlatedBatman
 math: false
-description: A page to talk about Game of Thrones Theories
 ---
 
 ![Game of Thrones](/assets/img/commons/Game_of_Thrones_title_card.jpg)
