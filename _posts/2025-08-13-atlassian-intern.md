@@ -10,6 +10,9 @@ math: false
 pin: true
 ---
 
+{: .prompt-danger }
+> Warning: Incomplete page, will be updated soon
+
 Hi, I am Karthik Kashyap from EE23B, and here's my blog explaining my experience with Atlassian's Internship selection process as part of IITM's Internship Season 2025.
 
 The blog contains all the info about the selection process for Atlassian Software Engineer Intern and some tips and guidelines that I found useful during the process.
