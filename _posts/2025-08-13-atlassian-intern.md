@@ -21,35 +21,56 @@ The selection process had 2 parts: Online Assessment and Interview.
 
 ## Online Assessment
 
-The OA consisted of 3 questions based on DSA, and there was 90 min to solve them. The OA was conducted on HackeRank online mode with Video and Tab-switch proctoring.
+The OA consisted of 3 questions based on DSA, and there was 90 min to solve them. The OA was conducted on HackerRank online mode with Video and Tab-switch proctoring.
 
-{: .prompt-tip}
-> **Note:** Atlassian cares about time taken to solve the problems, not just solving them. So your aim should be to solve all the problems and also in as less time as possible. I solved all 3 questions and passed all test cases with 23 min to spare.
+{: .prompt-info}
+> Atlassian cares about time taken to solve the problems, not just solving them. So your aim should be to solve all the problems AND also in as less time as possible. I solved all 3 questions and passed all test cases with 23 min to spare. I am not sure where the cutoff for shortlist was, but I am guessing that full solving or solving at least 2.5 questions was minimum for shortlist.
 
-The questions were varying from person to person, to prevent chances of copying. The difficulty of the questions ranged from Leetcode Easy to Hard.
+The questions were varying from person to person, possibly to prevent chances of copying due to it being an online exam. The difficulty of the questions ranged from Leetcode Easy to Hard. 
+
+All common languages were allowed, like C++, Python, PyPy, Java, etc. I used C++ for the test.
 
 ---
 
 ## Interview
 
-Atlassian takes 2 rounds of interviews: 1 Coding (Technical) Round and 1 Leadership and Values (HR) Round.
+Atlassian takes 2 rounds of interviews: 1 Coding (Technical) Round and 1 Leadership and Values (HR) Round. Both the rounds were held online in Zoom platform. The interview could have been taken from hostel room or anywhere else (in the case of 2025 as apparently, there were too many companies and too few rooms to have one allotted to Atlassian). I took mine from CFI Terrace.
 
 ### Coding Round
 
-Lasted for 60 min, the interviewer asked me one question and asked to find the logic and code the problem.
+Lasted for 60 min, the interviewer asked me one question and asked to find the logic and code the problem. The IDE was left as a choice to the applicant. I had to share my full screen, write the code **and also run it** to make sure the code works.
 
 {: .prompt-tip}
 > A few important things to note here:
-> - Here, finding the logic is the important part. Only after convincing the intervierewer of the logic can you move to coding it. And even in the coding part, it's important to note that they check for clean, modular and streamlined code. Writing comments helps.
-> - This problem could have been done with just functions definitions. But writing the Class (including comments) made it so that the object of the class could be conveniently used and made the code much more readable.
-> - Do not worry about having wrong attempts. This attempt was my third attempt at a solution. The interviewer wants to see the way you think, so it's completely fine to make mistakes, but be sure to talk your mind out.
+> - Here, finding the logic is the important part. Only after convincing the intervierewer of the logic can you move to coding it. 
+> - In the coding part, it's important to note that they check for clean, modular and streamlined code. Your code may work with just writing function definitions. But writing Classes makes it much more convenient and is better code, and this gets a better liking to the interviewer. Writing comments also helps.
+> - Do not worry about having wrong attempts. This attempt that I finally implemented was my third attempt at a solution. The interviewer wants to see the way you think, so it's completely fine to make mistakes, but be sure to talk your mind out.
+
+If you have time left, the interviewer asks for a continuation problem, which is similar to the same problem but with a slight modification.
 
 ### Leadership and Values Round
 
 Lasted for 40 min, the interview gave situation based questions and asked me to provide real life examples that I have encountered in college that best explains this, and explain how I handled it and the outcome of it all.
 
+{: .prompt-info}
+> Atlassian cares a lot about it's values a lot:
+> - Play, as a team
+> - Build with heart and balance
+> - Don't #@!% the customer
+> - Open company no bullshit
+> - Be the change you seek
+>
+> So to be able to get interns/exployees who match these values, they take the HR Interview pretty seriously.
+
+I was asked 4 such situation based questions. All of them revolved around my involvement, my learning, my behaviour and my leaderships in the projects that I have worked on. 
+
 {: .prompt-tip}
-> Though the questions they ask in this round seem to circle about examples you encounter during your projects, it's totally fine to answer questions other than projects, they are totally okay with that. I myself answered 2 out of 3 examples outside of projects, and they were still happy to hear those. They just want to see how well you perform in a group talk, needn't always be a project.
+> Though the questions they ask in this round seem to circle about examples you encounter during your projects, it's totally fine to answer questions other than projects, they are totally okay with that. I myself answered 2 out of 4 examples outside of projects, and they were still happy to hear those. They just want to see how well you perform in a group talk, needn't always be a project.
+>
+> Think of a few such questions that might be asked to you, and prepare a few examples for them before the interview starts. That way you do not need to spend time thinking of one in a limited time interview. I did this, and it helped me a lot.
+
+{: .prompt-warning}
+> If you have no such example that fits your question, just tell them you don't have one. DO NOT make up a story then and there. More often than not, instant cook up stories are always terrible and easy to catch. That is the whole point of this HR Interview. If people could cook up stories, then there would have been no need for such an interview.
 
 ## General Tips
 
