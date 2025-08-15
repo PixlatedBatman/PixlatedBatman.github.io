@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game of Thrones Theories
-description: A page to talk about my Game of Thrones Theories
+description: A page to talk about Game of Thrones Theories
 date: 2025-08-15 00:30:00 +0530
 categories: [Lore, Theories]
 tags: [got, lore, theory] # TAG names should always be lowercase
