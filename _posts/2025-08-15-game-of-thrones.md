@@ -24,7 +24,7 @@ In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen<
 
 <!-- ![Fire cannot kill a dragon](/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg) -->
 <p align="center">
-    <img src="/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg" width="70%"> 
+    <img src="/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg" alt="Fire cannot kill a dragon" width="70%"> 
 </p>
 
 <!-- <p align="center">
