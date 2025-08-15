@@ -20,7 +20,7 @@ Game of Thrones is an amazing series with mind blowing plots and it's unthinkabl
 
 The name might be slightly misleading, but let's delve into why I think this isnt true:
 
-In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen</span> mentions that her brother <span style="color:#E07B48;">Viserys Targaryen</span> was not a real dragon as he got killed by molten gold(burned by fire). This is somehow a misconception by Dany as she seems to be the only Targaryen to not be burned by fire. Several other <span style="color:#E07B48;">Targaryens</span> (even pure blood) and even other High Valyrian descendants (eg. <span style="color:#72C2C2;">Laena Velaryon</span>, the only daughter to Corlys Velaryon) are shown to been consumed by fire. 
+In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen</span> mentions that her brother <span style="color:#E07B48;">Viserys Targaryen</span> was not a real dragon as he got killed by molten gold(burned by fire). This is somehow a misconception by Dany as she seems to be the only <span style="color:#E07B48;">Targaryen</span> to not be burned by fire. Several other <span style="color:#E07B48;">Targaryens</span> (even pure blood) and even other High Valyrian descendants (eg. <span style="color:#72C2C2;">Laena Velaryon</span>, the only daughter to <span style="color:#72C2C2;">Corlys Velaryon</span>) are shown to been consumed by fire. 
 
 <!-- ![Fire cannot kill a dragon](/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg) -->
 <p align="center">
