@@ -83,6 +83,46 @@ This section is quite long, but please bear with me, I have jotted down some pre
 - [Leetcode](https://leetcode.com/problemset/) is overhyped. Sure, you get to learn new methods and algorithms, but they are too generic, and the OAs will not have as general questions. You need to think a lot to get the logic, and you need to have practice at this, not just implement methods you learnt on LC. With this, I'm not saying Leetcode is useless, I'm only saying that this is not the only thing you need to prepare. Leetcode has such a massive expanse of problems that it's hard to pick which ones are useful and which ones aren't. The [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) problemset on Leetcode is good enough for practice. It has covered several domains of DSA, and is enough for practice. If more practice is needed, you can instead switch over to Codeforces, as that is more oriented towards the OAs than Leetcode.
 - Avoid ChatGPT. Just do it. You get work done, I'm not questoning that, but for Intern season, you will not be able to use it in the OAs, so you should be able to solve the problems without it. Some people use GPT for just writing the code when they give the logic, I would suggest against this too, because in the time crunch of the OA, you are expected to find the logic as well as write _bug free code_ which is supposed to pass all the test cases. Without practice of programming, this will not happen magically in the middle of an OA.
 - Learn from the algorithms and methods of questions you were not able to solve in a test. The number of repeated questions in the sebsequent tests is surprisingly high (Companies generally choose problems from the HackerRank problem bank or BrainStellar for their OAs rather than make their own). You will feel very guilty for not solving the question you've already seen before.
+- The OAs care more about speed than good code, so unless mentioned you just need to get a working code. In the Interview on the other hand, they care a lot about how well you write your code. For example take a code like this:
+
+```cpp
+int f(vector<int> arr){
+    int m = 0;
+    for(auto i: arr) m = max(m, i);
+    return m;
+}
+
+int main(){
+    vector<int> arr = {1, 2, 3};
+    cout << f(arr) << endl;
+}
+```
+
+You can get a working code with this, but they would much prefer if the code looks like this:
+```cpp
+// class to store a stream of integers and get the maximum
+class Stream{
+private:
+    vector<int> arr;
+public:
+    stream(vector<int> input){  // Constructor
+        arr = input;
+    }
+
+    int get_max(){              // Function to iterate through array and find max
+        int max_val = 0;
+        for(auto i: arr)
+            max_val = max(max_val, i);
+        return max_val;
+    }
+};
+
+int main(){
+    Stream st({1, 2, 3});       // Initialize class object
+    cout << st.get_max() << endl;
+}
+```
+Sure, this way the code is much longer (in fact, twice as much) and seems unnecessary, but it's way easier for someone other than you to understand the second code rather than the first.
 
 ---
 
