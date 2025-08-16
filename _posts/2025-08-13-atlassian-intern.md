@@ -105,12 +105,13 @@ class Stream{
 private:
     vector<int> arr;
 public:
-    stream(vector<int> input){  // Constructor
-        arr = input;
-    }
+    Stream(vector<int> &input): arr(input){}  // Constructor
 
-    int get_max(){              // Function to iterate through array and find max
-        int max_val = 0;
+    // Function to iterate through array and find max
+    int get_max() const {              
+        if(arr.empty()) throw runtime_error("Empty Stream");    // Check for empty array.
+
+        int max_val = arr[0];   // Initiate to first element to count for negative elements
         for(auto i: arr)
             max_val = max(max_val, i);
         return max_val;
@@ -122,13 +123,13 @@ int main(){
     cout << st.get_max() << endl;
 }
 ```
-Sure, this way the code is much longer (in fact, twice as much) and seems unnecessary, but it's way easier for someone other than you to understand the second code rather than the first.
+Sure, this way the code is much longer (in fact, twice as much) and seems unnecessary, but it's way easier for someone other than you to understand the second code rather than the first. Also take care of as many edge cases as you can find.
 
 ---
 
 Lastly I would like to mention that you may not always get the Intern that you wanted. Don't let this depress you in any way, this is just an Intern, not a placement. There's lots of companies, no need to depress yourself over one of them. It will not be the end of the world. I'm saying this because I was of this opinion when it did happen to me in Day 1.1, but now in retrospect I am happier this way that I was able to get Atlassian only because I got rejected by the companies in Day 1.1.
 
-Some companies do not care much about the Test performance or the Interview performance either. Sad to say, but this is how reality is and we need to face it that way.
+Some companies do not care much about the Test performance or the Interview performance either (Thankfully, Atlassian is not one of them). Sad to say, but this is how reality is and we need to face it that way.
 
 ---
 
