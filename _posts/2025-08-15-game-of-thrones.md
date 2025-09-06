@@ -43,6 +43,22 @@ My theory is that he is afraid to release whatever he has written so far. What t
 
 This claim can further be proved by the fact that GRRM actually finished writing a physics research paper in the past few years!
 
-<!-- ## Why was Dany so pretentious? -->
+## Why was Danenerys so pretentious?
 
-<!-- She let Jon ride Rhaegal -->
+Daenerys Targaryen is often seen as quite an arrogant, egoistic undeniably badass — with a touch of pretentiousness among her many qualities.
+
+Remember in the [S8E1: Winterfell](https://gameofthrones.fandom.com/wiki/Winterfell_(Game_of_Thrones)) of Game of Thrones, when Daenerys visits Winterfell, due to the dragons not eating well due to them being in the cold North, they decide to take the Dragons on a flight, where Daenerys mounts Drogon and asks Jon Snow to mount Rhaegal. He is a little hesitant at first because he has never rode a dragon before, but then does ride it a long way. 
+
+<!-- <p align="center">
+    <img src="/assets/img/commons/game-of-thrones/jon_riding_rhaegal.png" alt="Jon Snow riding the Green Dragon Rhaegal" width="50%"> 
+</p> -->
+
+![Jon Snow riding](/assets/img/commons/game-of-thrones/jon_riding_rhaegal.png)
+
+Did no one feel suspicious about this? We know from House of the Dragon and Fire and Blood that only High Valyrian descendants like Targaryens can ride Dragons because their blood is somehow magically bound to the dragons. If anyone else tries to ride them, the dragon does not accept them as their rider, be it however hard they tries to please or ride the dragon. But Rhaegal freely allowed Jon Snow to ride it.
+
+This was a very lucky moment for him, as the only reason he was able to ride Rhaegal, was that he was a Targaryen himself — the son of Rhaegar Targaryen. If not for this *major incident*, Jon Snow, as we know him, would have died that day. 
+
+But how could this happen? We cannot blame Jon Snow for this, as he was raised as a Stark and wouldnt have known much about dragons (~~It's Jon Snow, he knows nothing~~). But what about Daenerys though dragons were extinct since generations, as a Targaryen, she should have know about this. But her Pretentiousness almost cost Jon his life.
+
+You might also call this a mistake on the writers as this part wasnt actually in the books, but you can read [this](#is-george-r-r-martin--really-still-writing-the-winds-of-winter) for that. But I would also like to mention that I am not firm about this, it might very well be the writers fault for this plot hole.
