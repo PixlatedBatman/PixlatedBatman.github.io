@@ -31,7 +31,7 @@ In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen<
   <img src="/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg" width="300">
 </p> -->
 
-It is also to be noted that even *George R. R. Martin's* <span style="color:#E07B48;">Fire and Blood</span>, a book dedicated solely to the Targaryen rule, has no mention of this immunity of Targaryens to fire.
+It is also to be noted that even *George R. R. Martin's* <span style="color:#E07B48;">Fire and Blood</span>, a book dedicated solely to the <span style="color:#E07B48;">Targaryen</span> rule, has no mention of this immunity of <span style="color:#E07B48;">Targaryens</span> to fire.
 
 What do you think about this? Did Dany just assume that all <span style="color:#E07B48;">Targaryens</span> are immune to fire just because they have the blood of the Dragon, and more importantly is this the case because she was *the prince that was promised*?
 
@@ -43,6 +43,26 @@ My theory is that he is afraid to release whatever he has written so far. What t
 
 This claim can further be proved by the fact that GRRM actually finished writing a physics research paper in the past few years!
 
-<!-- ## Why was Dany so pretentious? -->
+## Why was <span style="color:#E07B48;">Daenerys</span> so pretentious?
 
-<!-- She let Jon ride Rhaegal -->
+<span style="color:#E07B48;">Daenerys Targaryen</span> is often seen as quite an arrogant, egoistic and undeniably badass — with a touch of pretentiousness among her many qualities.
+
+Remember in the [S8E1: Winterfell](https://gameofthrones.fandom.com/wiki/Winterfell_(Game_of_Thrones)) of Game of Thrones, when <span style="color:#E07B48;">Daenerys</span> visits <span style="color:#807875;">Winterfell</span>? Since the dragons were struggling to eat properly in the harsh northern cold, she decides to take them on a flight. <span style="color:#E07B48;">Daenerys</span> mounts <span style="color:#6B7280;">Drogon</span> and encourages <span style="color:#807875;">Jon Snow</span> to ride <span style="color:#15803D;">Rhaegal</span>. He is a little hesitant at first because he has never rode a dragon before, but <span style="color:#807875;">Jon</span> eventually takes the plunge and flies a considerable distance. 
+
+<!-- <p align="center">
+    <img src="/assets/img/commons/game-of-thrones/jon_riding_rhaegal.png" alt="Jon Snow riding the Green Dragon Rhaegal" width="50%"> 
+</p> -->
+
+![Jon Snow riding the Green Dragon Rhaegal](/assets/img/commons/game-of-thrones/jon_riding_rhaegal.png)
+
+Didn't anyone feel suspicious about this? We know from <span style="color:#E07B48;">House of the Dragon</span> and <span style="color:#E07B48;">Fire and Blood</span> that only High Valyrian descendants like the <span style="color:#E07B48;">Targaryens</span> can ride Dragons as their blood is bound to them through ancient magic. If anyone else tries to ride them, the dragon does not accept them as their rider, be it however hard they tries to favor or ride the dragon. Yet <span style="color:#15803D;">Rhaegal</span> freely allowed <span style="color:#807875;">Jon Snow</span> to ride it without any resistance.
+
+This was a extraordinarily fortunate moment for <span style="color:#807875;">Jon</span>, as the only reason he was able to ride <span style="color:#15803D;">Rhaegal</span>, was that he was, in truth, a <span style="color:#E07B48;">Targaryen</span> — the son of <span style="color:#E07B48;">Rhaegar Targaryen</span>. Without this *crucial detail*, <span style="color:#807875;">Jon Snow</span>, as we know him, would likely have perished that day.
+
+But how could this happen? <span style="color:#807875;">Jon</span> himself cannot be blamed; raised as a <span style="color:#807875;">Stark</span>, he knew little of dragons (~~It's <span style="color:#807875;">Jon Snow</span> after all, he knows nothing~~). But what about <span style="color:#E07B48;">Daenerys</span>? Though dragons had been extinct for generations, as a <span style="color:#E07B48;">Targaryen</span> she should have been aware of this ancient bond. Instead, her pretentiousness nearly cost <span style="color:#807875;">Jon</span> his life.
+
+You might also call this a mistake on the writers since this moment never actually appeared in the books — though you can read more about that [here](#is-george-r-r-martin--really-still-writing-the-winds-of-winter). That said, I won’t claim certainty; it may very well have been an oversight by the writers that created this apparent plot hole.
+
+<!-- ## Is Daenerys really dead? -->
+
+<!-- To a place with magic, maybe to revive her. Afterall, it's a dragon of High Valyrian origin. -->
