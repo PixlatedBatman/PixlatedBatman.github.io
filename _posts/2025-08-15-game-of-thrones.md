@@ -45,7 +45,7 @@ This claim can further be proved by the fact that GRRM actually finished writing
 
 ## Why was <span style="color:#E07B48;">Daenerys</span> so pretentious?
 
-<span style="color:#E07B48;">Daenerys Targaryen</span> is often seen as quite an arrogant, egoistic undeniably badass — with a touch of pretentiousness among her many qualities.
+<span style="color:#E07B48;">Daenerys Targaryen</span> is often seen as quite an arrogant, egoistic and undeniably badass — with a touch of pretentiousness among her many qualities.
 
 Remember in the [S8E1: Winterfell](https://gameofthrones.fandom.com/wiki/Winterfell_(Game_of_Thrones)) of Game of Thrones, when <span style="color:#E07B48;">Daenerys</span> visits <span style="color:#807875;">Winterfell</span>? Since the dragons were struggling to eat properly in the harsh northern cold, she decides to take them on a flight. <span style="color:#E07B48;">Daenerys</span> mounts <span style="color:#6B7280;">Drogon</span> and encourages <span style="color:#807875;">Jon Snow</span> to ride <span style="color:#15803D;">Rhaegal</span>. He is a little hesitant at first because he has never rode a dragon before, but <span style="color:#807875;">Jon</span> eventually takes the plunge and flies a considerable distance. 
 
