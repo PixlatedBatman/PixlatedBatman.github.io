@@ -20,7 +20,7 @@ Game of Thrones is an amazing series with mind blowing plots and it's unthinkabl
 
 The name might be slightly misleading, but let's delve into why I think this isnt true:
 
-In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen</span> mentions that her brother <span style="color:#E07B48;">Viserys Targaryen</span> was not a real dragon as he got killed by molten gold(burned by fire). This is somehow a misconception by Dany as she seems to be the only <span style="color:#E07B48;">Targaryen</span> to not be burned by fire. Several other <span style="color:#E07B48;">Targaryens</span> (even pure blood) and even other High Valyrian descendants (eg. <span style="color:#72C2C2;">Laena Velaryon</span>, the only daughter to <span style="color:#72C2C2;">Corlys Velaryon</span>) are shown to been consumed by fire. 
+In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen</span> mentions that her brother <span style="color:#E07B48;">Viserys Targaryen</span> was not a real dragon as he got killed by molten gold(burned by fire). This is somehow a misconception by Dany as she seems to be the only <span style="color:#E07B48;">Targaryen</span> to not be burned by fire. Several other <span style="color:#E07B48;">Targaryens</span> (even pure blood) and even other Old Valyrian descendants (eg. <span style="color:#72C2C2;">Laena Velaryon</span>, the only daughter to <span style="color:#72C2C2;">Corlys Velaryon</span>) are shown to been consumed by fire. 
 
 <!-- ![Fire cannot kill a dragon](/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg) -->
 <p align="center">
@@ -55,7 +55,7 @@ Remember in the [S8E1: Winterfell](https://gameofthrones.fandom.com/wiki/Winterf
 
 ![Jon Snow riding the Green Dragon Rhaegal](/assets/img/commons/game-of-thrones/jon_riding_rhaegal.png)
 
-Didn't anyone feel suspicious about this? We know from <span style="color:#E07B48;">House of the Dragon</span> and <span style="color:#E07B48;">Fire and Blood</span> that only High Valyrian descendants like the <span style="color:#E07B48;">Targaryens</span> can ride Dragons as their blood is bound to them through ancient magic. If anyone else tries to ride them, the dragon does not accept them as their rider, be it however hard they tries to favor or ride the dragon. Yet <span style="color:#15803D;">Rhaegal</span> freely allowed <span style="color:#807875;">Jon Snow</span> to ride it without any resistance.
+Didn't anyone feel suspicious about this? We know from <span style="color:#E07B48;">House of the Dragon</span> and <span style="color:#E07B48;">Fire and Blood</span> that only Old Valyrian descendants like the <span style="color:#E07B48;">Targaryens</span> can ride Dragons as their blood is bound to them through ancient magic. If anyone else tries to ride them, the dragon does not accept them as their rider, be it however hard they tries to favor or ride the dragon. Yet <span style="color:#15803D;">Rhaegal</span> freely allowed <span style="color:#807875;">Jon Snow</span> to ride it without any resistance.
 
 This was a extraordinarily fortunate moment for <span style="color:#807875;">Jon</span>, as the only reason he was able to ride <span style="color:#15803D;">Rhaegal</span>, was that he was, in truth, a <span style="color:#E07B48;">Targaryen</span> — the son of <span style="color:#E07B48;">Rhaegar Targaryen</span>. Without this *crucial detail*, <span style="color:#807875;">Jon Snow</span>, as we know him, would likely have perished that day.
 
@@ -63,6 +63,14 @@ But how could this happen? <span style="color:#807875;">Jon</span> himself canno
 
 You might also call this a mistake on the writers since this moment never actually appeared in the books — though you can read more about that [here](#is-george-r-r-martin--really-still-writing-the-winds-of-winter). That said, I won’t claim certainty; it may very well have been an oversight by the writers that created this apparent plot hole.
 
-<!-- ## Is Daenerys really dead? -->
+## Is Daenerys really dead?
 
-<!-- To a place with magic, maybe to revive her. Afterall, it's a dragon of High Valyrian origin. -->
+Due to a cascade of failures and the loss of her best friend, Daenerys went berserk and burnt King's Landing to the ground. It was quite saddening for us to see Daenerys die at the hand of her beloved — Jon Snow for the sake of the wellness of the Realm. Some might find that maddening in fact, that we did not get to see her as the Queen as the 7 kingdoms.
+
+What people generally don't think about is where Drogon took Daenerys after angrily burning the Iron Throne to a crisp: Did he take her to a cave to spend his days in sadness for the loss of his _mother_? But would that really be true?
+
+We know from several mentions within the series Game of Thrones and the books of A Song of Ice and Fire and Fire and Blood that Dragons and Targaryens come from Old Valyria — a place where lots of magic and spells were used. Of these, blood magic and such was also practiced heavily. We have seen this from the series too where Lady Melisandre practiced some of this, and she used this to revive Jon Snow. 
+
+Though Old Valyria is destroyed, there may be other places where such magic might be practiced. Considering that a magicless land like Westeros itself had a few priestesses who practiced such magic, it would be no surprise if there are other magical places.
+
+And because Dragons are magical themselves and are of Old Valyrian origin, it might be possible for Drogon to know of such places, and could have taken her body there for revival. So actually: Daenerys might be alive. Just that in this new magical place, the Seven Kingdoms wouldn't be as much important to other things, so she might not come back to Westeros.
