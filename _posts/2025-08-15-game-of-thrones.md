@@ -62,3 +62,7 @@ This was a very lucky moment for him, as the only reason he was able to ride Rha
 But how could this happen? We cannot blame Jon Snow for this, as he was raised as a Stark and wouldnt have known much about dragons (~~It's Jon Snow, he knows nothing~~). But what about Daenerys though dragons were extinct since generations, as a Targaryen, she should have know about this. But her Pretentiousness almost cost Jon his life.
 
 You might also call this a mistake on the writers as this part wasnt actually in the books, but you can read [this](#is-george-r-r-martin--really-still-writing-the-winds-of-winter) for that. But I would also like to mention that I am not firm about this, it might very well be the writers fault for this plot hole.
+
+<!-- ## Is Daenerys really dead? -->
+
+<!-- To a place with magic, maybe to revive her. Afterall, it's a dragon of High Valyrian origin. -->
