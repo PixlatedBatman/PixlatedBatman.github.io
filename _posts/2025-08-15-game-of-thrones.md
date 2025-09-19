@@ -7,6 +7,7 @@ categories: [Lore, Theories]
 tags: [got, lore, theory] # TAG names should always be lowercase
 author: PixlatedBatman
 math: false
+pin: true
 ---
 
 ![Game of Thrones](/assets/img/commons/game-of-thrones/game_of_thrones_title_card.jpg)
