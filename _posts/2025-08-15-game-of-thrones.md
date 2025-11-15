@@ -14,7 +14,10 @@ pin: true
 
 Game of Thrones is an amazing series with mind blowing plots and it's unthinkable plot twists. But it also has lots of unexplained stuff, and there's lots of theories out there about some of them. As an avid Game of Thrones fan, it feels dark hearted to not have some of my own. So here I have put forth some of mine.
 
-{: .prompt-warning }
+{: .prompt-warning}
+> **Note:** These are just my own theories and may not be true, so kindly take them with a grain of salt
+
+{: .prompt-danger }
 > **Spoiler alert:** This post covers plots of the shows *Game of Thrones*, *House of the Dragon* and even George R. R. Martin's books of *A Song of Ice and Fire* and *Fire and Blood*. Thread carefully if you must.
 
 ## Are <span style="color:#E07B48;">Targaryens</span> truly immune to fire?
