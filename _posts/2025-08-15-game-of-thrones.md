@@ -15,7 +15,7 @@ pin: true
 Game of Thrones is an amazing series with mind blowing plots and it's unthinkable plot twists. But it also has lots of unexplained stuff, and there's lots of theories out there about some of them. As an avid Game of Thrones fan, it feels dark hearted to not have some of my own. So here I have put forth some of mine.
 
 {: .prompt-warning}
-> **Note:** These are just my own theories and may not be true, so kindly take them with a grain of salt
+> **Note:** These are just my own theories and may not be true, so kindly take them with a grain of salt.
 
 {: .prompt-danger }
 > **Spoiler alert:** This post covers plots of the shows *Game of Thrones*, *House of the Dragon* and even George R. R. Martin's books of *A Song of Ice and Fire* and *Fire and Blood*. Thread carefully if you must.
@@ -67,14 +67,14 @@ But how could this happen? <span style="color:#807875;">Jon</span> himself canno
 
 You might also call this a mistake on the writers since this moment never actually appeared in the books — though you can read more about that [here](#is-george-r-r-martin--really-still-writing-the-winds-of-winter). That said, I won’t claim certainty; it may very well have been an oversight by the writers that created this apparent plot hole.
 
-## Is Daenerys really dead?
+## Is <span style="color:#E07B48;">Daenerys</span> really dead?
 
-Due to a cascade of failures and the loss of her best friend, Daenerys went berserk and burnt King's Landing to the ground. It was quite saddening for us to see Daenerys die at the hand of her beloved Jon Snow for the sake of the wellness of the Realm. Some might find that maddening in fact, that we did not get to see her as the Queen of the Seven Kingdoms.
+Due to a cascade of failures and the loss of her best friend, <span style="color:#E07B48;">Daenerys</span> went berserk and burnt King's Landing to the ground. It was quite saddening for us to see <span style="color:#E07B48;">Daenerys</span> die at the hand of her beloved <span style="color:#807875;">Jon Snow</span> for the sake of the wellness of the Realm. Some might find that maddening that we did not get to see her as the Queen of the Seven Kingdoms.
 
-What people generally don't think about is where Drogon took Daenerys after angrily burning the Iron Throne to a crisp: Did he take her to a cave to spend his days in sadness for the loss of his _mother_?
+What people generally don't think about is where <span style="color:#6B7280;">Drogon</span> took <span style="color:#E07B48;">Daenerys</span> after angrily burning the Iron Throne to a crisp: Did he take her to a cave to spend his days in sadness for the loss of his _mother_?
 
-We know from several mentions within the series Game of Thrones and the books of A Song of Ice and Fire and Fire and Blood that Dragons and Targaryens originally come from [Old Valyria](https://gameofthrones.fandom.com/wiki/Old_Valyria) — a place where lots of magic and spells were used. Of these, blood magic was laboriously practiced. We have seen this from the series too where [Melisandre](https://gameofthrones.fandom.com/wiki/Melisandre) (the red woman) and [Mirri Maz Duur](https://gameofthrones.fandom.com/wiki/Mirri_Maz_Duur) (the witch who cursed Khal Drogo and Daenerys) practiced some types of blood magic.
+We know from several mentions within the series Game of Thrones and the books of A Song of Ice and Fire and Fire and Blood that Dragons and Targaryens originally come from [Old Valyria](https://gameofthrones.fandom.com/wiki/Old_Valyria) — a place where lots of magic and spells were used. Of these, blood magic was laboriously practiced. We have seen this from the series too where [Melisandre](https://gameofthrones.fandom.com/wiki/Melisandre) (the red woman) and [Mirri Maz Duur](https://gameofthrones.fandom.com/wiki/Mirri_Maz_Duur) (the witch who cursed Khal Drogo and <span style="color:#E07B48;">Daenerys</span>) practiced some types of blood magic.
 
-Though Old Valyria is destroyed, there may be other places where such magic might be legally and extensively practiced. Considering that a magicless land like Westeros itself had a few priests and priestesses who practiced such magic, it would be no surprise if there are other magical places where revival magic could be used.
+Though Old Valyria is destroyed, there may be other places where such magic might be commonly and extensively practiced. Considering that a magicless land like Westeros itself had a few priests and priestesses who practiced such magic, it would be no surprise if there are other magical places where revival magic could be used.
 
-And because Dragons are magical themselves and are of Old Valyrian origin, it might be possible for Drogon to know of such places, and could have taken her body there for revival. So actually: Daenerys might be alive. Just that in this new magical place, the Seven Kingdoms wouldn't be as important her, so sadly she might not come back to Westeros.
+And because Dragons are magical themselves and are of Old Valyrian origin, it might be possible for <span style="color:#6B7280;">Drogon</span> to know of such places, and could have taken her body there for revival. So actually: <span style="color:#E07B48;">Daenerys</span> might be alive. Just that in this new magical place, the Seven Kingdoms wouldn't be as important her, so sadly she might not come back to Westeros.
