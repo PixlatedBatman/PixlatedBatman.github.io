@@ -69,9 +69,9 @@ You might also call this a mistake on the writers since this moment never actual
 
 ## Is <span style="color:#E07B48;">Daenerys</span> really dead?
 
-Due to a cascade of failures and the loss of her best friend, <span style="color:#E07B48;">Daenerys</span> went berserk and burnt King's Landing to the ground. It was quite saddening for us to see <span style="color:#E07B48;">Daenerys</span> die at the hand of her beloved <span style="color:#807875;">Jon Snow</span> for the sake of the wellness of the Realm. Some might find that maddening that we did not get to see her as the Queen of the Seven Kingdoms.
+Due to a cascade of failures and the loss of her best friend, <span style="color:#E07B48;">Daenerys Targaryen</span> went berserk and burnt King's Landing to the ground. It was quite saddening for us to see <span style="color:#E07B48;">Daenerys</span> die at the hand of her beloved <span style="color:#807875;">Jon Snow</span> for the sake of the wellness of the Realm. Some might find that maddening that we did not get to see her as the Queen of the Seven Kingdoms.
 
-What people generally don't think about is where <span style="color:#6B7280;">Drogon</span> took <span style="color:#E07B48;">Daenerys</span> after angrily burning the Iron Throne to a crisp: Did he take her to a cave to spend his days in sadness for the loss of his _mother_?
+What people generally don't think about is where <span style="color:#E07B48;">Daenerys</span>'s dragon <span style="color:#6B7280;">Drogon</span> took her after angrily burning the Iron Throne to a crisp: Did he take her to a cave to spend his days in sadness for the loss of his _mother_?
 
 We know from several mentions within the series Game of Thrones and the books of A Song of Ice and Fire and Fire and Blood that Dragons and Targaryens originally come from [Old Valyria](https://gameofthrones.fandom.com/wiki/Old_Valyria) — a place where lots of magic and spells were used. Of these, blood magic was laboriously practiced. We have seen this from the series too where [Melisandre](https://gameofthrones.fandom.com/wiki/Melisandre) (the red woman) and [Mirri Maz Duur](https://gameofthrones.fandom.com/wiki/Mirri_Maz_Duur) (the witch who cursed Khal Drogo and <span style="color:#E07B48;">Daenerys</span>) practiced some types of blood magic.
 
