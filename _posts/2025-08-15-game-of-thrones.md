@@ -26,9 +26,18 @@ The name might be slightly misleading, but let's delve into why I think this isn
 
 In Season 1 of Game of Thrones, <span style="color:#E07B48;">Daenerys Targaryen</span> mentions that her brother <span style="color:#E07B48;">Viserys Targaryen</span> was not a real dragon as he got killed by molten gold(burned by fire). This is somehow a misconception by Dany as she seems to be the only <span style="color:#E07B48;">Targaryen</span> to not be burned by fire. Several other <span style="color:#E07B48;">Targaryens</span> (even pure blood) and even other Old Valyrian descendants (eg. <span style="color:#72C2C2;">Laena Velaryon</span>, the only daughter to <span style="color:#72C2C2;">Corlys Velaryon</span>) are shown to been consumed by fire. 
 
+<style>
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%; /* A width is required */
+  }
+</style>
+
 <!-- ![Fire cannot kill a dragon](/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg) -->
-<p align="center">
-    <img src="/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg" alt="Fire cannot kill a dragon" width="70%"> 
+<p class="center-block">
+    <img src="/assets/img/commons/game-of-thrones/he_was_no_dragon.jpeg" alt="Fire cannot kill a dragon" width="120%"> 
 </p>
 
 <!-- <p align="center">
@@ -76,5 +85,11 @@ What people generally don't think about is where <span style="color:#E07B48;">Da
 We know from several mentions within the series Game of Thrones and the books of A Song of Ice and Fire and Fire and Blood that Dragons and Targaryens originally come from [Old Valyria](https://gameofthrones.fandom.com/wiki/Old_Valyria) — a place where lots of magic and spells were used. Of these, blood magic was laboriously practiced. We have seen this from the series too where [Melisandre](https://gameofthrones.fandom.com/wiki/Melisandre) (the red woman) and [Mirri Maz Duur](https://gameofthrones.fandom.com/wiki/Mirri_Maz_Duur) (the witch who cursed Khal Drogo and <span style="color:#E07B48;">Daenerys</span>) practiced some types of blood magic.
 
 Though Old Valyria is destroyed, there may be other places where such magic might be commonly and extensively practiced. Considering that a magicless land like Westeros itself had a few priests and priestesses who practiced such magic, it would be no surprise if there are other magical places where revival magic could be used.
+
+<!-- ![A depiction of Old Valyria](/assets/img/commons/game-of-thrones/old_valyria.png) -->
+
+<p class="center-block">
+    <img src="/assets/img/commons/game-of-thrones/old_valyria.png" alt="Fire cannot kill a dragon" width="140%"> 
+</p>
 
 And because Dragons are magical themselves and are of Old Valyrian origin, it might be possible for <span style="color:#6B7280;">Drogon</span> to know of such places, and could have taken her body there for revival. So actually: <span style="color:#E07B48;">Daenerys</span> might be alive. Just that in this new magical place, the Seven Kingdoms wouldn't be as important her, so sadly she might not come back to Westeros.
