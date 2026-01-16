@@ -7,7 +7,7 @@ categories: [Blogging, Internship Guide]
 tags: [intern, blog, guide] # TAG names should always be lowercase
 author: PixlatedBatman
 math: false
-pin: true
+pin: false
 ---
 
 Hi, I am Karthik Kashyap from EE23B, and here's my blog explaining my experience with Atlassian's Internship selection process as part of IITM's Internship Season 2025.
